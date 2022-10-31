@@ -13,5 +13,8 @@ Pas vu beaucoup de **voitures** ces jours-ci.  Trop occupé à fabriquer c't'eng
 
 Ça servira à se parler.
 
+Tiens, une **DS**
+![DS 20 Pallas BVH Berline 1968](https://www.citrocollection.com/wp-content/uploads/2017/01/DSC_9037-596x400.png)
+
 Moi, j'aime bien te parler.  Comme la longue conversation sur le boulevard, l'autre soir.
 Nous avons vu des **montres**, puis d'autres montres encore, et le temps est passé très vite.
