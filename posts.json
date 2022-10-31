@@ -1,0 +1,25 @@
+---
+layout: null
+permalink: posts.json
+---
+
+{
+  "posts": [
+      {% for post in site.posts %}
+      {
+          "url": "{{ site.url }}{{ post.url }}",
+          "title": {{ post.title | jsonify }},
+          "date_published": "{{ post.date | date_to_xmlschema }}",
+          {% if post.date-updated %}
+          "date_modified": "{{ post.date-updated | date_to_xmlschema }}",
+          {% else %}
+          "date_modified": "{{ post.date | date_to_xmlschema }}",
+          {% endif %}
+          "author": {{ post.author | jsonify }},
+          "tags": {{ post.tags | jsonify }},
+          "content_html": {{ post.content | jsonify }},
+          "public": {{ post.public | jsonify }}
+      }{% if forloop.last == false %},{% endif %}
+      {% endfor %}
+  ]
+}
