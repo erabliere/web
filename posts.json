@@ -18,7 +18,7 @@ permalink: posts.json
           "author": {{ post.author | jsonify }},
           "tags": {{ post.tags | jsonify }},
           "content_html": {{ post.content | jsonify }},
-          "public": {{ post.public | jsonify }}
+          "visible": {{ post.visible | jsonify }}
       }{% if forloop.last == false %},{% endif %}
       {% endfor %}
   ]

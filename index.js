@@ -70,25 +70,21 @@ const questions = [
     name: "tags",
     message: "Tags supplémentaires (séparés par une virgule)"
   },
+  {
+    type: "list",
+    name: "visible",
+    message: "Visible?",
+    choices: [
+      "oui",
+      "non"
+    ],
+    default: "oui"
+
+  }
 ]
 
 prompt(questions)
   .then((answers) => {
-    /*
-    Modèle
-    Note: toutes les datetimes sont en UTC
-    Note: le paramètre "fichier" n'est pas standard et sert seulement
-          à indiquer le nom du fichier markdown
-    ---
-    layout: post
-    author: ttonatiuhh
-    title: La  grande Misère  humaine des jOURS
-    date: 2022-10-11 12:11:03 -0000
-    categories: [Voitures, Programmation, Quotidien, Anecdotes, Que sais-je]
-    tags: [Voitures, Programmation, Quotidien, Anecdotes, "Que sais-je", "La ferme des animaux"]
-    fichier: 2022-10-11-la-grande-misere-humaine-des-jours.md
-    ---   
-    */
 
     tags = normalizeKeywords(answers['categories'], { toLowerCase: true })
       .concat(normalizeKeywords(answers['tags'].split(','), { toLowerCase: true }))
@@ -97,22 +93,17 @@ prompt(questions)
 
     lines.push('---')
     lines.push('layout: post')
-    lines.push("author:\n  - name: " + answers['author'] + "\n  - site: https://erabliere.ga/" + answers['author'])
+    lines.push(`author: ${answers['author']}`)
     lines.push(`title: ${answers['title']}`)
     lines.push(`date: ${dateFrontmatter}`)
     lines.push(`categories: [${categories.join(', ')}]`)
     lines.push(`tags: [${tags.join(', ')}]`)
     lines.push(`fichier: ${filename}`)
+    lines.push(`visible: ${answers['visible']}`)
     lines.push('---')
-    /*lines.push('<!-- Pour insérer une image dans le répertoire [assets]: -->')
-    lines.push('<!-- ![SAAB 93](/docs/assets/images/SAAB_93.jpg) -->')
-    lines.push('<!-- Pour insérer une image du web: -->')
-    lines.push('<!-- ![Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg) -->')
-    lines.push('<!-- Pour insérer un lien web: -->')
-    lines.push('<!-- [Page principale, Google](https://www.google.ca/?hl=fr) -->')*/
     lines.push("\n\n")
 
-    writeFile('./_posts/' + filename, lines.join("\n"), () => console.log(`Fichier [${filename}] créer dans le répertoire [_posts]`))
+    writeFile('./_posts/' + filename, lines.join("\n"), () => console.log(`Fichier [ ${filename} ] créé dans le répertoire [ _posts ]`))
   })
   .catch((error) => {
     console.error(error)
