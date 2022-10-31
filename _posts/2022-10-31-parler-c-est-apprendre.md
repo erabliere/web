@@ -6,7 +6,7 @@ date: 2022-10-31 01:20:47 -0000
 categories: ["Discours!"]
 tags: ["discours!"]
 fichier: 2022-10-31-parler-c-est-apprendre.md
-public: oui
+public: non
 ---
 
 Pas vu beaucoup de voitures ces jours-ci.  Trop occupé à fabriquer c't'engin.  J'espère que tu vas aimer.
