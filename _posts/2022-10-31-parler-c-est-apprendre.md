@@ -13,5 +13,5 @@ Pas vu beaucoup de voitures ces jours-ci.  Trop occupé à fabriquer c't'engin. 
 
 Ça servira à se parler.
 
-Moi, j'aime bien te parler.  Comme la longue conversation sur le boulevard, l'autre jour.
+Moi, j'aime bien te parler.  Comme la longue conversation sur le boulevard, l'autre soir.
 Nous avons vu des montres, puis d'autres montres encore, et le temps est passé très vite.
