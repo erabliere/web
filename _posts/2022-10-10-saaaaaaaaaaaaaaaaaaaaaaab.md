@@ -15,5 +15,5 @@ C'est la première (et peux-être la dernière) fois que je vois une **SAAB**.
 Je trouve très intéressant que SAAB faisait des voitures et des avions.
 
 La **SAAB 93** que j'ai vue:
-![SAAB 93](/images/SAAB_93_600X450.jpg)
+![SAAB 93](https://erabliere.github.io/web/images/SAAB_93_600X450.jpg)
 
