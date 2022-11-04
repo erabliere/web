@@ -6,7 +6,7 @@ date: 2022-11-04 21:11:23 -0000
 categories: ["Anecdotes"]
 tags: ["anecdotes", "mathématiques"]
 fichier: 2022-11-04-une-chance-sur-un-milliard!-suite.md
-visible: non
+visible: oui
 ---
 
 On cherche la probabilité de mettre la balle de tennis dans le verre en platique dans la poubelle.
@@ -23,9 +23,9 @@ Pour (1):
 ![Distance](https://erabliere.github.io/web/images/distance.png)
 
 
-$$A_l = \pi(12)²$$
+$$A~l = \pi(12)²$$
 
-$$A_v = \pi(0,08)²$$
+$$A~v = \pi(0,08)²$$
 
 
-$$P[De mettre la balle dans le verre] = A_v/A_l$$
+$$P[De mettre la balle dans le verre] = A~v/A~l$$
