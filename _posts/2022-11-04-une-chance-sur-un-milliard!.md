@@ -10,6 +10,6 @@ visible: oui
 ---
 
 
-Aujourd'hui Ma. a frappé une balle de tennis avec sa raquette qui est accidentellement entrée dans un verre en plastique dans la **poubelle**!
+Aujourd'hui M. a frappé une balle de tennis avec sa raquette qui est accidentellement entrée dans un verre en plastique dans la **poubelle**!
 
 Tout le monde était étonné! Ils regardaient tous la balle dans le verre dans la poubelle.
