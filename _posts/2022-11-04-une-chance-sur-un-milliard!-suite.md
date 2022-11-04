@@ -12,8 +12,8 @@ visible: oui
 On cherche la probabilité de mettre la balle de tennis dans le verre en platique dans la poubelle.
 
 2 calculs à faire:
-1. Aire du cercle de lancer ($A_l$)
-2. Aire de l'ouverture du verre ($A_v$)
+1. Aire du cercle de lancer (```math A_l```)
+2. Aire de l'ouverture du verre (```math A_v```)
 
 On a besoin de deux données:
 1. 12 m (rayon)
@@ -22,7 +22,15 @@ On a besoin de deux données:
 Pour (1):
 ![Distance](https://erabliere.github.io/web/images/distance.png)
 
-$ A_l = \pi(12)² $
-$ A_v = \pi(12)² $
+```math
+A_l = \pi(12)² $
+```
 
-$ P[De mettre la balle dans le verre] = A_v/A_l$
+```math
+A_v = \pi(0,08)² $
+```
+
+
+```math
+P[De mettre la balle dans le verre] = A_v/A_l
+```
