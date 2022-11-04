@@ -10,7 +10,7 @@ visible: oui
 ---
 Aujourd'hui j'ai vu une **SAAB**.
 
-C'est la première (et peux-être la dernière) fois que je vois une **SAAB**.
+C'est la première (et peux-être la dernière) fois que je vois une SAAB.
 
 Je trouve très intéressant que SAAB faisait des voitures et des avions.
 
