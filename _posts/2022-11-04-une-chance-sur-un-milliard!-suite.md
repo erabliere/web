@@ -6,7 +6,7 @@ date: 2022-11-04 21:11:23 -0000
 categories: ["Anecdotes"]
 tags: ["anecdotes", "mathématiques"]
 fichier: 2022-11-04-une-chance-sur-un-milliard!-suite.md
-visible: oui
+visible: non
 ---
 
 On cherche la probabilité de mettre la balle de tennis dans le verre en platique dans la poubelle.
