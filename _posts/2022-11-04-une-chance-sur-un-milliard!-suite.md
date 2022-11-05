@@ -12,17 +12,13 @@ visible: oui
 On cherche la probabilité de mettre la balle de tennis dans le verre en plastique qui se trouvait dans la **poubelle**.
 
 2 calculs à faire:
-
-Aire du cercle de lancer ($A_l$)
-
-Aire de l'ouverture du verre ($A_v$)
+ - Aire du cercle de lancer ($A_l$)
+ - Aire de l'ouverture du verre ($A_v$)
 
 
 On a besoin de deux données:
-
-12 m (rayon de lancer)
-
-0,08 m (diamètre) ou 0,04 m de rayon pour le verre
+ - 12 m (rayon de lancer)
+ - 0,08 m (diamètre) ou 0,04 m de rayon pour le verre
 
 Pour (1):
 ![Distance](https://erabliere.github.io/web/images/distance.png)
