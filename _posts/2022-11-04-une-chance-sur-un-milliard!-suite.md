@@ -9,7 +9,7 @@ fichier: 2022-11-04-une-chance-sur-un-milliard!-suite.md
 visible: oui
 ---
 
-On cherche la probabilité de mettre la balle de tennis dans le verre en plastique qui se trouvait dans la poubelle.
+On cherche la probabilité de mettre la balle de tennis dans le verre en plastique qui se trouvait dans la **poubelle**.
 
 2 calculs à faire:
 
