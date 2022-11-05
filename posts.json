@@ -16,6 +16,9 @@ permalink: posts.json
           "date_modified": "{{ post.date | date_to_xmlschema }}",
           {% endif %}
           "author": {{ post.author | jsonify }},
+          {% if post.categories %}
+          "categories": {{ post.categories | jsonify }},
+          {% endif %}
           "tags": {{ post.tags | jsonify }},
           "content_html": {{ post.content | jsonify }},
           "visible": {{ post.visible | jsonify }}

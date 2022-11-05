@@ -55,6 +55,7 @@ const questions = [
     message: "Catégories?",
     choices: [
       "Programmation",
+      "Mathématiques",
       "Que sais-je?",
       "Voitures",
       "Quotidien",
