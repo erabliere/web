@@ -35,7 +35,7 @@ $A_l = \pi 12^2$
 
 $A_v = \pi 0,04^2$
 
-Si on pose que la balle peut atterir n'importe où dans le cercle de lancer avec une probabilité uniforme:
+Si on pose que la balle peut atterrir n'importe où dans le cercle de lancer avec une probabilité uniforme:
 
 $P[\text{ De mettre la balle dans le verre }] = \frac{A_v}{A_l}$
 
