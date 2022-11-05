@@ -15,7 +15,7 @@ On cherche la probabilité de mettre la balle de tennis dans le verre en plastiq
 
 On a besoin de deux données: 12 m (rayon de lancer) et 0,08 m (diamètre) ou 0,04 m de rayon pour le verre.
 
-Pour le cercle de lancer, la distance en le lanceur et la poubelle:
+Pour le cercle de lancer, la distance entre le lanceur et la poubelle:
 ![Distance](https://erabliere.github.io/web/images/distance.png)
 
 L'aire d'un cercle:
