@@ -20,7 +20,7 @@ On a besoin de deux données:
 12 m (rayon de lancer);
 0,08 m (diamètre) ou 0,04 m de rayon pour le verre;
 
-Pour (1):
+Pour le cercle de lancer:
 ![Distance](https://erabliere.github.io/web/images/distance.png)
 
 L'aire d'un cercle:
