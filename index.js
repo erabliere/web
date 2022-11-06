@@ -57,6 +57,7 @@ const questions = [
       "Programmation",
       "Mathématiques",
       "Que sais-je?",
+      "Mot nouveau",
       "Voitures",
       "Quotidien",
       "Note de lecture",
@@ -69,7 +70,25 @@ const questions = [
   {
     type: "input",
     name: "tags",
-    message: "Tags supplémentaires (séparés par une virgule)"
+    message: "Tags (séparés par une virgule)?"
+  },
+  {
+    type: "checkbox",
+    name: "amis",
+    message: "Des amis?",
+    choices: [
+      "MD",
+      "LJ",
+      "TD",
+      "AD",
+      "CC",
+      "AJ"
+    ]
+  },
+  {
+    type: "input",
+    name: "amis_sup",
+    message: "Amis supplémentaires (séparés par une virgule)?"
   },
   {
     type: "list",
@@ -80,7 +99,6 @@ const questions = [
       "non"
     ],
     default: "oui"
-
   }
 ]
 
@@ -89,6 +107,8 @@ prompt(questions)
 
     tags = normalizeKeywords(answers['categories'], { toLowerCase: true })
       .concat(normalizeKeywords(answers['tags'].split(','), { toLowerCase: true }))
+      .concat(normalizeKeywords(answers['amis_sup'].split(','), { toLowerCase: true }))
+      .concat(normalizeKeywords(answers['amis'], { toLowerCase: true }))
     categories = normalizeKeywords(answers['categories'])
     filename = `${date}-${sluggify(answers['title'])}.md`
 
