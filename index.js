@@ -44,12 +44,6 @@ const questions = [
 
   },
   {
-    type: "input",
-    name: "title",
-    message: "Titre de l'article?",
-    validate: answer => answer ? true : 'Il faut un titre'
-  },
-  {
     type: "checkbox",
     name: "categories",
     message: "Catégories?",
@@ -66,6 +60,12 @@ const questions = [
       "Discours!"
     ],
     validate: answer => answer.length > 0 ? true : 'Il faut au moins une catégorie'
+  },
+  {
+    type: "input",
+    name: "title",
+    message: "Titre de l'article?",
+    validate: answer => answer ? true : 'Il faut un titre'
   },
   {
     type: "input",
