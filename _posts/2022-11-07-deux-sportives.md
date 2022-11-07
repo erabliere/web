@@ -17,5 +17,6 @@ Aujourd'hui j'ai vu une **Subaru BRZ** et une **Chevrolet Corvette C5**.
 ![Chevrolet Corvette C5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/C5_Z06_06-29-2019.jpg/1024px-C5_Z06_06-29-2019.jpg)
 
 
-Je ne suis pas sur pour la Corvette je l'ai mal reconnue. Je croix que c'est une **Corvette C5**
+Je ne suis pas sûr pour la Corvette je l'ai mal reconnue. Je crois que c'est une **Corvette C5**
 
+Ma subaru préférée est la **Subaru WRX**
