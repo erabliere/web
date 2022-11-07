@@ -32,6 +32,4 @@ Moi je préfère la **Audi Quattro** quand elle ressemble a ça:
 ![Audi Sport Quattro rallye](https://www.supercars.net/blog/wp-content/uploads/2019/09/Audi-Sport-Quattro-S1.jpg)
 
 
-J'ai aussi vu une Hyundai veloster N
-
-Bon, c'est tout ce que j'ai à dire.
+J'ai aussi vu une **Hyundai Veloster N**.
