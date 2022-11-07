@@ -17,4 +17,4 @@ Les modèles C5 qui ont suivi m'ont moins intéressé.  J'étais déjà dans les
 
 ![Audi Quattro 1984](https://www.motortrend.com/uploads/2021/10/1984-Audi-Sport-48.jpg)
 
-Je devenais snob!  Ça me semblait plus raffiné (différentiel Torsen de la **Quattro** par exemple).
+Je devenais snob!  Ça me semblait plus raffiné (différentiel **Torsen** de la **Quattro** par exemple).
