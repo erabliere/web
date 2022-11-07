@@ -1,7 +1,7 @@
 ---
 layout: post
 author: kafkaah
-title: Grosse corvette
+title: Grosse Corvette
 date: 2022-11-07 01:23:11 -0000
 categories: ["Voitures"]
 tags: ["voitures", "corvette", "enfance"]
@@ -9,11 +9,11 @@ fichier: 2022-11-07-grosse-corvette.md
 visible: oui
 ---
 
-Pour moi, une **Corvette** c'est plutôt ceci:
+Pour moi, une **Corvette** c'est plutôt ceci (celle-ci, de 1974):
 
 ![Corvette Stingray 1974](https://www.corvsport.com/wp-content/uploads/2017/02/Screenshot-2017-02-10-08.54.55.png)
 
-Les modèles C5 qui ont suivi m'ont moins intéressé.  J'étais déjà dans les voitures européennes alors:
+Les modèles C5 des années qui ont suivi (~1985 à ~1995) m'ont moins intéressé.  J'étais déjà dans les voitures européennes alors:
 
 ![Audi Quattro 1984](https://www.motortrend.com/uploads/2021/10/1984-Audi-Sport-48.jpg)
 
