@@ -54,6 +54,7 @@ const questions = [
       "Mot nouveau",
       "Voitures",
       "Quotidien",
+      "Sports",
       "Note de lecture",
       "Question/réponse",
       "Anecdotes",
