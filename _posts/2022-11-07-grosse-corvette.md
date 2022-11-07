@@ -9,7 +9,7 @@ fichier: 2022-11-07-grosse-corvette.md
 visible: oui
 ---
 
-Pour moi, une **Corvette** c'est plutôt ceci (celle-ci, de 1974):
+Pour moi, une **Corvette** c'est plutôt ceci (celle-ci de 1974):
 
 ![Corvette Stingray 1974](https://www.corvsport.com/wp-content/uploads/2017/02/Screenshot-2017-02-10-08.54.55.png)
 
