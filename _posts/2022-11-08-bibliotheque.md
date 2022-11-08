@@ -13,7 +13,7 @@ visible: "oui"
 
 ---
 
-J'aime les Simpson car je trouve cette série comique. Parfois je préfère lire une BD plûtot qu'un roman car c'est plus reposant de regarder des images que de lire beaucoup de mots. 
+J'aime les Simpson car je trouve cette série comique. Parfois je préfère lire une BD plutôt qu'un roman car c'est plus reposant de regarder des images que de lire beaucoup de mots. 
 
 
 #### Gamer 1, par Pierre-Yves Villeneuve
@@ -27,6 +27,6 @@ J'ai pris ce livre car c'est un roman populaire à l'école. Je crois que je vai
 
 ---
 
-Puisque j'aime les animaux, j'ai pris ce livre (Il y a beaucoup de chats dans ce manga 🐱 ). C'est pas le premiers manga que j'ai lu de cette série. 
+Puisque j'aime les animaux, j'ai pris ce livre (Il y a beaucoup de chats dans ce manga 🐱 ). C'est pas le premier manga que j'ai lu de cette série. 
 
-Le problème avec les mangas c'est qu'à chaque fois que je lis ce type de livre, je doute du sens de lecture de la BD suivante (Ce ne est pas un problème très grave).
+Le problème avec les mangas c'est qu'à chaque fois que je lis ce type de livre, je doute du sens de lecture de la BD suivante (Ce n'est pas un problème très grave).
