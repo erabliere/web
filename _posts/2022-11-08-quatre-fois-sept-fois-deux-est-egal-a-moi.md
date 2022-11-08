@@ -11,4 +11,4 @@ visible: oui
 
 Je fais les [tables de multiplication](https://replit.com/@kafkaaah/Multiplication) avec toi et je suis content de voir mes temps diminuer comme si j'étais encore un potache.
 
-<iframe width="400" height="371" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQHFuuGSCJr0--ftccCW3tR4xzlFfmlfQ7TjycKIOMpd1GzTdCIlXlJH8RLhZs_pSVBbU62PBZY0jsc/pubchart?oid=1940590074&amp;format=interactive"></iframe>
+<iframe width="371" height="371" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQHFuuGSCJr0--ftccCW3tR4xzlFfmlfQ7TjycKIOMpd1GzTdCIlXlJH8RLhZs_pSVBbU62PBZY0jsc/pubchart?oid=1940590074&amp;format=interactive"></iframe>
