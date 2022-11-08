@@ -23,11 +23,15 @@ function sluggify(title) {
   return title
 }
 
+function quote(text = '"te:st"') {
+  return `"${text.replace(/"/gm, '\\"')}"`
+}
+
 function normalizeKeywords(keywords, options = { toLowerCase: false }) {
   function transform(text) {
     return options.toLowerCase ? text.toLowerCase() : text
   }
-  const normalized = keywords.map(keyword => `"${transform(trim(keyword))}"`).filter(keyword => keyword.length > 2)
+  const normalized = keywords.map(keyword => `${quote(transform(trim(keyword)))}`).filter(keyword => keyword.length > 2)
   return [...new Set(normalized)] //Pour éliminer les doublons
 }
 
@@ -115,13 +119,13 @@ prompt(questions)
 
     lines.push('---')
     lines.push('layout: post')
-    lines.push(`author: ${answers['author']}`)
-    lines.push(`title: ${answers['title']}`)
-    lines.push(`date: ${dateFrontmatter}`)
+    lines.push(`author: ${quote(answers['author'])}`)
+    lines.push(`title: ${quote(answers['title'])}`)
+    lines.push(`date: ${quote(dateFrontmatter)}`)
     lines.push(`categories: [${categories.join(', ')}]`)
     lines.push(`tags: [${tags.join(', ')}]`)
-    lines.push(`fichier: ${filename}`)
-    lines.push(`visible: ${answers['visible']}`)
+    lines.push(`fichier: ${quote(filename)}`)
+    lines.push(`visible: ${quote(answers['visible'])}`)
     lines.push('---')
     lines.push("\n\n")
 
