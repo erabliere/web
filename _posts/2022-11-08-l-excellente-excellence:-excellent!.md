@@ -2,84 +2,26 @@
 layout: post
 author: "kafkaah"
 title: "L'excellente excellence: excellent!"
-date: "2022-11-08 02:26:52 -0000"
-categories: ["Programmation", "Mathématiques", "Que sais-je?", "Mot nouveau", "Voitures", "Quotidien", "Sports", "Note de lecture", "Question/réponse", "Anecdotes", "Discours!"]
-tags: ["programmation", "mathématiques", "que sais-je?", "mot nouveau", "voitures", "quotidien", "sports", "note de lecture", "question/réponse", "anecdotes", "discours!", "un \"test\"", "\"un autre\"", "rien", "md"]
+date: "2022-11-08 02:44:11 -0000"
+categories: ["Quotidien", "Anecdotes"]
+tags: ["quotidien", "anecdotes"]
 fichier: "2022-11-08-l-excellente-excellence:-excellent!.md"
 visible: "oui"
 ---
 
-Un peu de texte!!
+Dossier de fureteur pour le programme d'excellence qui est écrit "Exellence".
 
-Un peu de texte!!
+Il faut bien commencer quelque part :-)
 
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
-
-Un peu de texte!!
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠟⠛⠛⠛⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⠿⠋⠄⠄⠄⠄⠄⠄⠄⠄⠄⠙⠋⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡟⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠘⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⠁⠄⠄⠄⠄⣀⡀⠄⠄⠄⠄⠄⣠⣄⣀⣤⡀⠈⢿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣧⠄⠄⢠⣴⣾⣿⣿⣶⣶⣶⣶⣿⣿⣿⣿⣿⡇⠄⠸⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣆⠄⢸⣿⣿⣿⣟⣛⠿⣿⣿⣿⡿⠛⣻⣿⡇⠄⠄⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⡗⢀⣿⣿⣿⣿⡷⠾⣿⣯⡹⠿⢿⣿⣿⣧⠄⣼⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣷⣮⢻⣿⣿⣿⣬⣤⠹⡿⢣⣶⣼⣿⣿⢡⣶⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣇⢿⣛⡿⠿⠛⠉⠉⠙⠛⢿⡻⢡⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣎⢻⣿⣿⡶⠶⠶⢿⣿⡟⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡻⣿⣿⣿⣿⣿⡏⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 
