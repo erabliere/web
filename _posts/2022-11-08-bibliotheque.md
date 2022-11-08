@@ -13,20 +13,20 @@ visible: "oui"
 
 ---
 
-J'aime les Spimpson car je trouve cette série comique. Parfois je préfère lire une BD qu'un roman car c'est plus reposant regarder des images que de lire beaucoup de mots. 
+J'aime les Simpson car je trouve cette série comique. Parfois je préfère lire une BD plûtot qu'un roman car c'est plus reposant de regarder des images que de lire beaucoup de mots. 
 
 
 #### Gamer 1, par Pierre-Yves Villeneuve
 
 ---
 
-J'ai pris ce livre car c'est un roman populaire à l'école. Je croix que je vais l'aimer.
+J'ai pris ce livre car c'est un roman populaire à l'école. Je crois que je vais l'aimer.
 
 
 #### Miaou! Le quotidien de Moustique 4, par Minori Kakio
 
 ---
 
-Vu que j'aime les animaux j'ai pris ce livre (Il y a beaucoup de chat dans ce manga 🐱 ). C'est pas le premiers manga que j'ai lu de cette série. 
+Puisque j'aime les animaux, j'ai pris ce livre (Il y a beaucoup de chats dans ce manga 🐱 ). C'est pas le premiers manga que j'ai lu de cette série. 
 
-Le problème avec les mangas c'est que a chaque fois que je lis ce type de livre, si le prochain livre que je lis est une BD ou un roman je doute du sens de lecture (C'est pas un problème très grave).
+Le problème avec les mangas c'est qu'à chaque fois que je lis ce type de livre, je doute du sens de lecture de la BD suivante (Ce ne est pas un problème très grave).
