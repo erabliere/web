@@ -23,7 +23,7 @@ function sluggify(title) {
   return title
 }
 
-function quote(text = '"te:st"') {
+function quote(text) {
   return `"${text.replace(/"/gm, '\\"')}"`
 }
 
