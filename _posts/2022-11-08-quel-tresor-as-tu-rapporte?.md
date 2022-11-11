@@ -3,8 +3,8 @@ layout: post
 author: "kafkaah"
 title: "Quel trésor as-tu rapporté?"
 date: "2022-11-08 20:20:11 -0000"
-categories: ["Note de lecture", "Question/réponse"]
-tags: ["note de lecture", "question/réponse", "bibliothèque"]
+categories: ["Notes de lecture", "Question/réponse"]
+tags: ["notes de lecture", "question/réponse", "bibliothèque"]
 fichier: "2022-11-08-quel-tresor-as-tu-rapporte?.md"
 visible: "oui"
 ---

@@ -52,6 +52,8 @@ const questions = [
     name: "categories",
     message: "Catégories?",
     choices: [
+      "Notes de film",
+      "Notes de lecture",
       "Programmation",
       "Mathématiques",
       "Que sais-je?",
@@ -59,7 +61,6 @@ const questions = [
       "Voitures",
       "Quotidien",
       "Sports",
-      "Note de lecture",
       "Question/réponse",
       "Anecdotes",
       "Discours!"

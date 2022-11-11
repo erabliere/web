@@ -3,8 +3,8 @@ layout: post
 author: "kafkaah"
 title: "Une ferme curieuse"
 date: "2022-11-09 02:43:49 -0000"
-categories: ["Note de lecture"]
-tags: ["note de lecture", "lecture duo"]
+categories: ["Notes de lecture"]
+tags: ["notes de lecture", "lecture duo"]
 fichier: "2022-11-09-une-ferme-curieuse.md"
 visible: "oui"
 ---
