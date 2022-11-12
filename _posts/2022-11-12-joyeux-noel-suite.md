@@ -23,7 +23,7 @@ C'est ton premier film de guerre.  Je t'en proposerai un autre plus tard sans do
 
 ---
 
-La fin de "Joyeux Noël", pour te l'expliquer le mieux que je peux:
+La fin de **Joyeux Noël**, pour te l'expliquer le mieux que je peux:
 
 Les ennemis français, allemands et écossais ont "fraternisé" (du mot latin *frater*, "frère" en français): c'est contre la loi des armées et de la guerre.
 
