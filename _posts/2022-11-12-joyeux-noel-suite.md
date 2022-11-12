@@ -25,8 +25,10 @@ C'est ton premier film de guerre.  Je t'en proposerai un autre plus tard sans do
 
 La fin de **Joyeux Noël**, pour te l'expliquer le mieux que je peux:
 
-Les ennemis français, allemands et écossais ont "fraternisé" (du mot latin *frater*, "frère" en français): c'est contre la loi des armées et de la guerre.
+Les ennemis français, allemands et écossais ont "fraternisé" (du mot latin *frater*, "frère" en français): c'est contre la loi des armées et de la guerre.  L'autre expression utilisée pour exprimer ce délit (pas dans le film): "intelligence avec l'ennemi".
 
-Les Allemands sont punis ainsi: on les envoie sur le front de l'Est, contre les Russes, où la guerre est encore plus brutale.
+Deux attitudes défendues donc, la fraternité et l'intelligence.
+
+Les Allemands sont punis ainsi: leurs commandants les envoient sur le front de l'Est, contre les Russes, où la guerre est encore plus brutale.
 
 Ils ne reviendront sans doute pas.  La fin du film est aussi leur fin.
