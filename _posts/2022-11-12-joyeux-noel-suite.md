@@ -23,4 +23,4 @@ C'est ton premier film de guerre.  Je t'en proposerai un autre plus tard sans do
 
 La fin de "Joyeux Noël", pour te l'expliquer le mieux que je peux:
 
-Les ennemis français, allemands et écossais ont "fraternisé": c'est contre la loi des armées et de la guerre.  Les Allemands sont punis ainsi: on les envoie sur le front de l'Est, contre les Russes, où la guerre est encore plus brutale.  Ils ne reviendront pas sans doute.
+Les ennemis français, allemands et écossais ont "fraternisé" (du mot latin *frater*, "frère" en français): c'est contre la loi des armées et de la guerre.  Les Allemands sont punis ainsi: on les envoie sur le front de l'Est, contre les Russes, où la guerre est encore plus brutale.  Ils ne reviendront pas sans doute.  La fin du film est aussi leur fin.
