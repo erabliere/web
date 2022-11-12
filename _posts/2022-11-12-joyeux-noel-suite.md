@@ -19,7 +19,7 @@ Tu sais, tous ces gens sont tristes aussi, comme toi, de voir des gens tomber.  
 
 ---
 
-C'est ton premier film de guerre.  Je t'en proposerai un autre plus tard sans doute, que je considère le meilleur parmi tous ceux que j'ai vus: The Thin Red Line, de Terrence Malick.  Je le revois souvent.
+C'est ton premier film de guerre.  Je t'en proposerai un autre plus tard sans doute, que je considère le meilleur parmi tous ceux que j'ai vus: **The Thin Red Line**, de **Terrence Malick**.  Je le revois souvent.
 
 ---
 
