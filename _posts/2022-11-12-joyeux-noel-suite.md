@@ -29,4 +29,4 @@ Les ennemis français, allemands et écossais ont "fraternisé" (du mot latin *f
 
 Les Allemands sont punis ainsi: on les envoie sur le front de l'Est, contre les Russes, où la guerre est encore plus brutale.
 
-Ils ne reviendront pas sans doute.  La fin du film est aussi leur fin.
+Ils ne reviendront sans doute pas.  La fin du film est aussi leur fin.
