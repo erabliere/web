@@ -15,8 +15,8 @@ visible: "oui"
 
 C'est un bon titre pour un film qui parle de la **première guerre mondiale**.
 
-J'ai aimé le film, il m'a un peu apris sur la première guerre mondiale.
-Parfois, j'était un peu triste quand quelqu'un mourrait. J'ai pas très bien compris la fin.
+J'ai aimé le film, il m'a un peu appris sur la première guerre mondiale.
+Parfois, j'étais un peu triste quand quelqu'un mourrait. J'ai pas très bien compris la fin.
 
 ---
 
