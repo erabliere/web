@@ -12,6 +12,7 @@ visible: "oui"
 
 > Peines partagées, peines diminuées de moitié. Joies partagées, joies doublées.
 
+
 ---
 
 Peine:
