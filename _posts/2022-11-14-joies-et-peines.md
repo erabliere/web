@@ -17,7 +17,7 @@ visible: "oui"
 
 Peine:
 
-Quand mon hamster est mort, j'avais beaucoup de tristesse et j'ai partagé ma peine avec plusieures personnes pour que ma peine soit diminuée de moitié.
+Quand mon hamster est mort, j'avais beaucoup de tristesse et j'ai partagé ma peine avec plusieurs personnes pour que ma peine soit diminuée de moitié.
 
 ---
 Joie:
