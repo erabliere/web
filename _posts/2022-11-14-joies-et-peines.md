@@ -4,7 +4,7 @@ author: "ttonatiuhh"
 title: "Joies et peines"
 date: "2022-11-14 22:30:39 -0000"
 categories: ["Mot nouveau"]
-tags: ["mot nouveau", "rhinocéros"]
+tags: ["mot nouveau"]
 fichier: "2022-11-14-joies-et-peines.md"
 visible: "oui"
 ---
