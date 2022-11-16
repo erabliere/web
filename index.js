@@ -56,6 +56,7 @@ const questions = [
       "Notes de lecture",
       "Programmation",
       "Mathématiques",
+      "Science",
       "Que sais-je?",
       "Mot nouveau",
       "Voitures",
