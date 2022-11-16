@@ -11,11 +11,7 @@ visible: "oui"
 
 Voici un instrument de mesure scientifique:
 
----
-
 ![Moonikin](https://erabliere.github.io/web/images/snoopy.png)
-
----
 
 Toutes les missions spatiales humaines apportent un objet destiné à confirmer le moment exact du début de la micro-gravité.
 
