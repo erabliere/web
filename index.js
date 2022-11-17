@@ -41,8 +41,8 @@ const questions = [
     name: "author",
     message: "Auteur?",
     choices: [
-      "kafkaah",
-      "ttonatiuhh"
+      "ttonatiuhh",
+      "kafkaah"
     ],
     default: "ttonatiuhh"
 
