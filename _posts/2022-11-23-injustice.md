@@ -11,8 +11,8 @@ visible: "non"
 
 ## Chapitre 1
 
-- Ca ne sert a rien de couler ses chiens dans l'étang parce qu'il sont vieux.
+- Ca ne sert a rien de couler ses chiens dans l'étang parce qu'ils sont vieux.
 
-- Pourquoi ne pas donner plus de nourriture aux animaux.
+- Pourquoi ne pas donner plus de nourriture aux animaux?
 
 - Pourquoi tuer les animaux? (Oui, je sais que j'aime le PFK / KFC)
