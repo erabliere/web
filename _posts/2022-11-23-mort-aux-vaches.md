@@ -10,7 +10,7 @@ visible: "oui"
 ---
 ### Chapitre 1
 
-- Indiscible inquiétude: les fermiers aux lits tandis que les animaux fomentent une révolution. Je sais ce qui vient: le tourment, la douleur, la mort.
+- Indiscible inquiétude: les fermiers au lit tandis que les animaux fomentent une révolution. Je sais ce qui vient: le tourment, la douleur, la mort.
 
 - Pourquoi les grandes luttes de la justice sont-elles liées si souvent à la violence?
 
