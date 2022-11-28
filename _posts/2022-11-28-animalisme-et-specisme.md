@@ -9,6 +9,8 @@ fichier: "2022-11-28-animalisme-et-specisme.md"
 visible: "oui"
 ---
 
+### Chapitre 2
+
 "L'animalisme"... Une trouvaille d'Orwell...  Contrepoint lointain à "l'animal-machine" de Descartes... AnimalISME dont font écho les tracts anti-spécISME comme on en lut pendant la dernière campagne électorale.
 
 Bienvenue garçon dans l'univers des "ISMES"!
