@@ -13,6 +13,6 @@ visible: "oui"
 
 - Quelqu'un a volé le lait des vaches. C'est très suspect. 🤔
 
-- Les animaux ont réussi à expulser M. Jones de la ferme. Après avoir expulsé M. Jones, les animaux ont jeté tous les objet qui leur fesait penser à Jones dans le puit. Après, ils ont chanté 7 fois de suite *Bêtes d'Angleterre*. Je crois qu'ils sont contents.
+- Les animaux ont réussi à expulser M. Jones de la ferme. Après avoir expulsé M. Jones, les animaux ont jeté tous les objets qui leur fesait penser à Jones dans le puits. Après, ils ont chanté 7 fois de suite *Bêtes d'Angleterre*. Je crois qu'ils sont contents.
 
-- Ils ont rennomé "La ferme du manoir" en "La ferme des animaux". Snowball (Un cochon) a écrit les 7 commandements.
+- Ils ont renommé "La ferme du manoir" en "La ferme des animaux". Snowball (Un cochon) a écrit les 7 commandements.
