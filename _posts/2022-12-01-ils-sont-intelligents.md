@@ -26,6 +26,6 @@ Mot nouveau: ivraie
 Définition: 
 
 Plante herbacée, nuisible aux céréales.
-locution (Évangile) Séparer le bon grain de l'ivraie, les bons des méchants, le bien du mal.
+Locution (Évangile) Séparer le bon grain de l'ivraie, les bons des méchants, le bien du mal.
 
 ![Ivraie](https://jardin-botanique.univ-tlse3.fr/medias/photo/ivraie-image1_1591784244418-jpg?ID_FICHE=1000034)
