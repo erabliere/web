@@ -14,9 +14,11 @@ visible: "oui"
 <script id="scriptacular" type="text/javascript">
   //Ici, on code ce qu'on veut
   console.log("Invoqué avec: " + clr);
-  function couleurAuHasard(){
-    return Math.floor(Math.random() * 16777215).toString(16)
+  
+    function couleurAuHasard(){
+    return '#' + Math.floor(Math.random() * 16777215).toString(16)
   }
+  
   function couleur(el, clr){
     let repeter = 1,
         couleurAppliquee,
@@ -28,16 +30,20 @@ visible: "oui"
     
     const timer = setInterval(() => {
       let couleurAppliquee = clr === 'hasard' ? couleurAuHasard() : clr
-      el.style.color = clr 
-      p.style.color = clr
+      el.style.color = couleurAppliquee 
+      p.style.color = couleurAppliquee
+      console.log(couleurAppliquee)
       compteur++
       if(compteur >= repeter) {
-        timer.cancel()
+        clearInterval(timer)
       }
-    }, 700)
+    }, 400)
     
   }
-  //Toute fonction doit être attribuée à window de cette manière
+    
+  }
+  //Toute fonction requise directement dans la page
+  //doit être attribuée à window de cette manière
   window.couleur = couleur
 </script>
 
