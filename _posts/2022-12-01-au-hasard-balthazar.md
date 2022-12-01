@@ -6,7 +6,7 @@ date: "2022-12-01 20:14:24 -0000"
 categories: ["Mathématiques", "Question/réponse"]
 tags: ["mathématiques", "question/réponse", "expérience", "programmation"]
 fichier: "2022-12-01-au-hasard-balthazar.md"
-visible: "oui"
+visible: "non"
 ---
 
 <script type="application/javascript"> 
