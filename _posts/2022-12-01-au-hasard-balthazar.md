@@ -61,4 +61,4 @@ visible: "oui"
   
 <!-- Cet élément <style> doit être présent tel quel à la fin du post  -->
 <!-- Il permet d'injecter et de rendre actif le code plus haut dans la page  -->
-<style onload="const el = document.getElementById('scriptacular');window.addEventListener('load', () => eval(el.innerHTML));"/>
+<style onload="window.addEventListener('load', () => eval(document.getElementById('scriptacular').innerHTML));"/>
