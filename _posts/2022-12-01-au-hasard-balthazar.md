@@ -13,12 +13,11 @@ visible: "oui"
   
   window.addEventListener("load", (event) => {
     console.log("page is fully loaded");
-    
-    function changeColor(newColor) {
+    const changeColor = function(newColor) {
     var elem = document.getElementById('para');
     elem.style.color = newColor;
   }
-    
+    window.changeColor = changeColor
   });
 </script>
 
