@@ -12,7 +12,7 @@ visible: "oui"
 <script id="scriptaculous" type="text/javascript"> 
   
   window.addEventListener("load", (event) => {
-    console.log("page is fully loaded");
+    
     const changeColor = function(newColor) {
     var elem = document.getElementById('para');
     elem.style.color = newColor;
@@ -21,10 +21,16 @@ visible: "oui"
   });
 </script>
 
+<script id="scriptacular" type="text/javascript">
+  window.couleur = function(clr){
+    console.log("Invoqué avec: " + clr);
+  }
+</script>
 <div id="box">
   <p id="para">Du texte</p>
   <button onclick="changeColor('blue');">blue</button>
-  <button onclick="changeColor('red');">red</button>  
+  <button onclick="couleur('red');">red</button>  
 <div>
 
 <style onload="var el = document.getElementById('scriptaculous');document.body.appendChild(el);eval(el.innerHTML);"/>
+<style onload="eval(document.getElementById('scriptacular').innerHTML);"/>
