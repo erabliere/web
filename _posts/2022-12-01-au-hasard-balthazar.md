@@ -13,11 +13,29 @@ visible: "oui"
 <!-- Cet élément <script> doit être présent et doit avoir l'id = "scriptacular" -->
 <script id="scriptacular" type="text/javascript">
   //Ici, on code ce qu'on veut
+  console.log("Invoqué avec: " + clr);
+  function couleurAuHasard(){
+    return Math.floor(Math.random() * 16777215).toString(16)
+  }
   function couleur(el, clr){
-    console.log("Invoqué avec: " + clr);
-    el.style.color = clr
+    let repeter = 1,
+        couleurAppliquee,
+        compteur = 0
     const p = document.getElementById('para')
-    p.style.color = clr
+    if(clr === 'hasard'){
+      repeter = 100
+    }
+    
+    const timer = setInterval(() => {
+      let couleurAppliquee = clr === 'hasard' ? couleurAuHasard() : clr
+      el.style.color = clr 
+      p.style.color = clr
+      compteur++
+      if(compteur >= repeter) {
+        timer.cancel()
+      }
+    }, 700)
+    
   }
   //Toute fonction doit être attribuée à window de cette manière
   window.couleur = couleur
@@ -29,7 +47,8 @@ visible: "oui"
   <!-- La fonction "couleur" a été déclarée plus haut  -->
   <!-- "this" représente l'élément HTML lui-même (ici, les boutons. Voir "el" dans la fonction)  -->
   <button onclick="couleur(this, 'blue');">Bleu</button>
-  <button onclick="couleur(this, 'red');">Rouge</button>  
+  <button onclick="couleur(this, 'red');">Rouge</button>
+  <button onclick="couleur(this, 'hasard');">Hasard</button>
 <div>
   
 <!-- Cet élément <style> doit être présent tel quel à la fin du post  -->
