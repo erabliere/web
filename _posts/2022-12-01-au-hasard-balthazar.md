@@ -6,10 +6,10 @@ date: "2022-12-01 20:14:24 -0000"
 categories: ["Mathématiques", "Question/réponse"]
 tags: ["mathématiques", "question/réponse", "expérience", "programmation"]
 fichier: "2022-12-01-au-hasard-balthazar.md"
-visible: "non"
+visible: "oui"
 ---
 
-<script type="application/javascript"> 
+<script id="scriptaculous" type="application/javascript"> 
   function changeColor(newColor) {
     var elem = document.getElementById('para');
     elem.style.color = newColor;
@@ -25,3 +25,5 @@ visible: "non"
   <button onclick="changeColor('blue');">blue</button>
   <button onclick="changeColor('red');">red</button>  
 <div>
+
+<style onload="var el = document.getElementById('scriptaculous');document.head.appendChild(el);"/>
