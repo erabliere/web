@@ -33,4 +33,4 @@ visible: "oui"
 <div>
 
 <style onload="var el = document.getElementById('scriptaculous');document.body.appendChild(el);eval(el.innerHTML);"/>
-<style onload="eval(document.getElementById('scriptacular').innerHTML);"/>
+<style onload="console.log(document.getElementById('scriptacular').innerHTML);"/>
