@@ -9,7 +9,7 @@ fichier: "2022-12-01-au-hasard-balthazar.md"
 visible: "oui"
 ---
 
-<script id="scriptaculous" type="application/javascript"> 
+<script id="scriptaculous" type="text/javascript"> 
   function changeColor(newColor) {
     var elem = document.getElementById('para');
     elem.style.color = newColor;
