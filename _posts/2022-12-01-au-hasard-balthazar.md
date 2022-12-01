@@ -10,13 +10,15 @@ visible: "oui"
 ---
 
 <script id="scriptaculous" type="text/javascript"> 
-  function changeColor(newColor) {
+  
+  window.addEventListener("load", (event) => {
+    console.log("page is fully loaded");
+    
+    function changeColor(newColor) {
     var elem = document.getElementById('para');
     elem.style.color = newColor;
   }
-  window.addEventListener("load", (event) => {
-    console.log("page is fully loaded");
-    alert("Hello World!");
+    
   });
 </script>
 
