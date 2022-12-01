@@ -1,14 +1,13 @@
 ---
 layout: post
 author: "kafkaah"
-title: "Au hasard Balthazar"
-date: "2022-12-01 20:14:24 -0000"
-categories: ["Mathématiques", "Question/réponse"]
-tags: ["mathématiques", "question/réponse", "expérience", "programmation"]
-fichier: "2022-12-01-au-hasard-balthazar.md"
-visible: "oui"
+title: "Comment intégrer du JavaScript dans un post"
+date: "2022-12-01 22:34:41 -0000"
+categories: ["Programmation"]
+tags: ["programmation"]
+fichier: "2022-12-01-comment-integrer-du-javascript-dans-un-post.md"
+visible: "non"
 ---
-
 
 <!-- Cet élément <script> doit être présent et doit avoir l'id = "scriptacular" -->
 <script id="scriptacular" type="text/javascript">
@@ -35,3 +34,4 @@ visible: "oui"
 <!-- Cet élément <style> doit être présent tel quel à la fin du post  -->
 <!-- Il permet d'injecter et de rendre actif le code plus haut dans la page  -->
 <style onload="const el = document.getElementById('scriptacular');window.addEventListener('load', () => eval(el.innerHTML));"/>
+
