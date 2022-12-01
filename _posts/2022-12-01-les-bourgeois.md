@@ -27,6 +27,6 @@ Chacun a droit aux pommes et au lait selon son talent et son travail.
 Mot nouveau: **glume**
 (le traducteur de mon livre a ainsi interprété "chaff" pour lequel "ivraie" me semble mieux)
 
-***Botanique*** Enveloppe de l'épillet des graminées. La glume du blé.
+*Botanique* Enveloppe de l'épillet des graminées. La glume du blé.
 
 
