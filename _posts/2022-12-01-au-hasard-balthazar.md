@@ -22,7 +22,7 @@ visible: "oui"
 </script>
 
 <script id="scriptacular" type="text/javascript">
-  window.couleur = function(clr){
+  function couleur(clr){
     console.log("Invoqué avec: " + clr);
   }
 </script>
