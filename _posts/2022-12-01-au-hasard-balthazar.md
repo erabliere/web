@@ -25,6 +25,7 @@ visible: "oui"
   function couleur(clr){
     console.log("Invoqué avec: " + clr);
   }
+  window.couleur = couleur
 </script>
 <div id="box">
   <p id="para">Du texte</p>
