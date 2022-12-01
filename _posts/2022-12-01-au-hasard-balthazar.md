@@ -32,5 +32,5 @@ visible: "oui"
   <button onclick="couleur('red');">red</button>  
 <div>
 
-<style onload="var el = document.getElementById('scriptaculous');document.body.appendChild(el);eval(el.innerHTML);"/>
+<!--<style onload="var el = document.getElementById('scriptaculous');document.body.appendChild(el);eval(el.innerHTML);"/-->
 <style onload="const el = document.getElementById('scriptacular');document.body.appendChild(el);window.addEventListener('load', () => eval(el.innerHTML));"/>
