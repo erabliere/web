@@ -26,4 +26,4 @@ visible: "oui"
   <button onclick="changeColor('red');">red</button>  
 <div>
 
-<style onload="var el = document.getElementById('scriptaculous');document.body.appendChild(el);"/>
+<style onload="var el = document.getElementById('scriptaculous');document.body.appendChild(el);eval(el.innerHTML);"/>
