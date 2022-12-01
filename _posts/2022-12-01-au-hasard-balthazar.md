@@ -12,19 +12,22 @@ visible: "oui"
 
 <!-- Cet élément <script> doit être présent et doit avoir l'id = "scriptacular" -->
 <script id="scriptacular" type="text/javascript">
-  //Ici, on code ce qu'on veut
-  console.log("Invoqué avec: " + clr);
   
-    function couleurAuHasard(){
+  //Ici, on code ce qu'on veut
+  
+  function couleurAuHasard() {
     return '#' + Math.floor(Math.random() * 16777215).toString(16)
   }
   
-  function couleur(el, clr){
+  function couleur(el, clr) {
+    
     let repeter = 1,
         couleurAppliquee,
         compteur = 0
+    
     const p = document.getElementById('para')
-    if(clr === 'hasard'){
+    
+    if(clr === 'hasard') {
       repeter = 100
     }
     
@@ -40,8 +43,7 @@ visible: "oui"
     }, 400)
     
   }
-    
-  }
+
   //Toute fonction requise directement dans la page
   //doit être attribuée à window de cette manière
   window.couleur = couleur
