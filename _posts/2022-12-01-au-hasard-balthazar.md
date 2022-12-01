@@ -9,29 +9,16 @@ fichier: "2022-12-01-au-hasard-balthazar.md"
 visible: "oui"
 ---
 
-<script id="scriptaculous" type="text/javascript"> 
-  
-  window.addEventListener("load", (event) => {
-    
-    const changeColor = function(newColor) {
-    var elem = document.getElementById('para');
-    elem.style.color = newColor;
-  }
-    window.changeColor = changeColor
-  });
-</script>
-
 <script id="scriptacular" type="text/javascript">
-  function couleur(clr){
+  function couleur(el, clr){
     console.log("Invoqué avec: " + clr);
+    el.style.color = clr
   }
   window.couleur = couleur
 </script>
 <div id="box">
   <p id="para">Du texte</p>
-  <button onclick="changeColor('blue');">blue</button>
-  <button onclick="couleur('red');">red</button>  
+  <button onclick="couleur(this, 'blue');">blue</button>
+  <button onclick="couleur(this, 'red');">red</button>  
 <div>
-
-<!--<style onload="var el = document.getElementById('scriptaculous');document.body.appendChild(el);eval(el.innerHTML);"/-->
 <style onload="const el = document.getElementById('scriptacular');window.addEventListener('load', () => eval(el.innerHTML));"/>
