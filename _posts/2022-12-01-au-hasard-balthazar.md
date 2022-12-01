@@ -28,7 +28,7 @@ visible: "oui"
     const p = document.getElementById('para')
     
     if(clr === 'hasard') {
-      repeter = 100
+      repeter = 300
     }
     
     const timer = setInterval(() => {
@@ -40,7 +40,7 @@ visible: "oui"
       if(compteur >= repeter) {
         clearInterval(timer)
       }
-    }, 400)
+    }, 200)
     
   }
 
