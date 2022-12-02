@@ -4,7 +4,7 @@ author: "kafkaah"
 title: "Au hasard Balthazar"
 date: "2022-12-01 20:14:24 -0000"
 categories: ["Programmation"]
-tags: ["expérience"]
+tags: ["programmation", "expérience"]
 fichier: "2022-12-01-au-hasard-balthazar.md"
 visible: "oui"
 ---
