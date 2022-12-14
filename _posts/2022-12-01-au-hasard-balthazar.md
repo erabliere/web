@@ -10,7 +10,7 @@ visible: "oui"
 ---
 
 
-<!-- Cet élément <script> doit être présent et doit avoir l'id = "scriptacular" -->
+<!-- Cet élément <script> doit être présent et doit avoir: class="scriptacular" -->
 <script class="scriptacular" type="text/javascript">
   
   //Ici, on code ce qu'on veut
@@ -44,9 +44,6 @@ visible: "oui"
     
   }
 
-  //Toute fonction requise directement dans la page
-  //doit être attribuée à window de cette manière
-  //window.couleur = couleur
 </script>
 
 <!-- On peut injecter n'importe quel code HTML ici  -->

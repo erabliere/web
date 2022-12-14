@@ -9,7 +9,7 @@ fichier: "2022-12-01-comment-integrer-du-javascript-dans-un-post.md"
 visible: "non"
 ---
 
-<!-- Cet élément <script> doit être présent et doit avoir l'id = "scriptacular" -->
+<!-- Cet élément <script> doit être présent et doit avoir: class="scriptacular" -->
 <script class="scriptacular" type="text/javascript">
   //Ici, on code ce qu'on veut
   function couleur(el, clr){
@@ -18,8 +18,7 @@ visible: "non"
     const p = document.getElementById('para')
     p.style.color = clr
   }
-  //Toute fonction doit être attribuée à window de cette manière
-  window.couleur = couleur
+
 </script>
 
 <!-- On peut injecter n'importe quel code HTML ici  -->
@@ -30,8 +29,4 @@ visible: "non"
   <button onclick="couleur(this, 'blue');">Bleu</button>
   <button onclick="couleur(this, 'red');">Rouge</button>  
 <div>
-  
-<!-- Cet élément <style> doit être présent tel quel à la fin du post  -->
-<!-- Il permet d'injecter et de rendre actif le code plus haut dans la page  -->
-<style onload="const scripts = document.getElementByClassName('scriptacular');els.forEach(el => document.head.appendChild(script));"/>
 
