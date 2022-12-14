@@ -6,7 +6,7 @@ date: "2022-12-01 22:34:41 -0000"
 categories: ["Programmation"]
 tags: ["programmation"]
 fichier: "2022-12-01-comment-integrer-du-javascript-dans-un-post.md"
-visible: "oui"
+visible: "non"
 ---
 
 <!-- Cet élément <script> doit être présent et doit avoir: class="scriptacular" -->
