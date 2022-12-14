@@ -35,7 +35,7 @@ visible: "oui"
       const couleurAppliquee = clr === 'hasard' ? couleurAuHasard() : clr
       el.style.color = couleurAppliquee 
       p.style.color = couleurAppliquee
-      console.log(couleurAppliquee)
+      console.log(`${repeter - compteur}: ${couleurAppliquee}`)
       compteur++
       if(compteur >= repeter) {
         clearInterval(timer)
