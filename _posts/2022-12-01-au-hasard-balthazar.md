@@ -15,7 +15,7 @@ visible: "oui"
   
   //Ici, on code ce qu'on veut
   //Les noms de fonctions doivent être uniques dans la page
-  //On peut utiliser un "namespace" (un objet) pour être plus certain de l'unicité d'un fonction créée
+  //On peut utiliser un "namespace" (un objet) pour être plus certain de l'unicité d'une fonction créée
 
   //Utilisation d'un "namespace" (un objet) pour éviter une collision de noms entre les fonctions de la page
   //Plus le nom du namespace est long et compliqué, moins il y a de chance de collision
