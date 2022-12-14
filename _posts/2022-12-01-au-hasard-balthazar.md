@@ -25,7 +25,7 @@ visible: "oui"
         couleurAppliquee,
         compteur = 0
     
-    const p = document.getElementById('para')
+    const p = document.getElementById('citation')
     
     if(clr === 'hasard') {
       repeter = 300
@@ -51,7 +51,7 @@ visible: "oui"
 
 <!-- On peut injecter n'importe quel code HTML ici  -->
 <div id="box">
-  <p id="para"><strong>Un coup de dés jamais n'abolira le hasard</strong></p>
+  <p id="citation"><strong>Un coup de dés jamais n'abolira le hasard</strong></p>
   <!-- La fonction "couleur" a été déclarée plus haut  -->
   <!-- "this" représente l'élément HTML lui-même (ici, les boutons. Voir "el" dans la fonction)  -->
   <button onclick="couleur(this, 'blue');">Bleu</button>
