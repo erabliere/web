@@ -32,7 +32,7 @@ visible: "oui"
     }
     
     const timer = setInterval(() => {
-      let couleurAppliquee = clr === 'hasard' ? couleurAuHasard() : clr
+      const couleurAppliquee = clr === 'hasard' ? couleurAuHasard() : clr
       el.style.color = couleurAppliquee 
       p.style.color = couleurAppliquee
       console.log(couleurAppliquee)
