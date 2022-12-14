@@ -46,7 +46,7 @@ visible: "oui"
 
   //Toute fonction requise directement dans la page
   //doit être attribuée à window de cette manière
-  window.couleur = couleur
+  //window.couleur = couleur
 </script>
 
 <!-- On peut injecter n'importe quel code HTML ici  -->
