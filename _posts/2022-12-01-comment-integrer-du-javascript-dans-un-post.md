@@ -10,7 +10,7 @@ visible: "non"
 ---
 
 <!-- Cet élément <script> doit être présent et doit avoir l'id = "scriptacular" -->
-<script id="scriptacular" type="text/javascript">
+<script class="scriptacular" type="text/javascript">
   //Ici, on code ce qu'on veut
   function couleur(el, clr){
     console.log("Invoqué avec: " + clr);
@@ -33,5 +33,5 @@ visible: "non"
   
 <!-- Cet élément <style> doit être présent tel quel à la fin du post  -->
 <!-- Il permet d'injecter et de rendre actif le code plus haut dans la page  -->
-<style onload="const el = document.getElementById('scriptacular');window.addEventListener('load', () => eval(el.innerHTML));"/>
+<style onload="const scripts = document.getElementByClassName('scriptacular');els.forEach(el => document.head.appendChild(script));"/>
 

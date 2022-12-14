@@ -11,7 +11,7 @@ visible: "oui"
 
 
 <!-- Cet élément <script> doit être présent et doit avoir l'id = "scriptacular" -->
-<script id="scriptacular" type="text/javascript">
+<script class="scriptacular" type="text/javascript">
   
   //Ici, on code ce qu'on veut
   
@@ -58,7 +58,3 @@ visible: "oui"
   <button onclick="couleur(this, 'red');">Rouge</button>
   <button onclick="couleur(this, 'hasard');">Hasard</button>
 <div>
-  
-<!-- Cet élément <style> doit être présent tel quel à la fin du post  -->
-<!-- Il permet d'injecter et de rendre actif le code plus haut dans la page  -->
-<style onload="window.addEventListener('load', () => eval(document.getElementById('scriptacular').innerHTML));"/>
