@@ -38,7 +38,7 @@ visible: "oui"
     }
     
     const timer = setInterval(() => {
-        const couleurAppliquee = clr === 'hasard' ? couleurAuHasard() : clr
+        const couleurAppliquee = clr === 'hasard' ? namespace_le_hasard_des_couleurs.couleurAuHasard() : clr
         el.style.color = couleurAppliquee 
         p.style.color = couleurAppliquee
         console.log(`${repeter - compteur}: ${couleurAppliquee}`)
