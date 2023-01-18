@@ -12,7 +12,7 @@ visible: "non"
 ## Objectifs pour 2023
 
 
-1. Faire bien mes travaux
+1. **Faire bien mes travaux**
 
    - [ ] Commencer mes devoirs le jour même ou le lendemain;
    
@@ -20,7 +20,7 @@ visible: "non"
 
    - [ ] Quand je doute d'une réponse d'un examen, prendre un brouillon.
 
-3. Finir mes examens à temps
+2. **Finir mes examens à temps**
 
    - [ ] Partir à l'heure chez ma mère: 7h25;
 
